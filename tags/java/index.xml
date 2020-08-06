@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on Hsiung profile</title>
+    <link>https://hsiung0322.github.io/tags/java/</link>
+    <description>Recent content in Java on Hsiung profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 04 Aug 2020 20:51:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://hsiung0322.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>畢業專題:SUMMAR-中文摘要新聞平台</title>
+      <link>https://hsiung0322.github.io/blog/summar/</link>
+      <pubDate>Tue, 04 Aug 2020 20:51:00 +0800</pubDate>
+      
+      <guid>https://hsiung0322.github.io/blog/summar/</guid>
+      <description>SUMMAR 中文新聞摘要平台，將文章內容作精簡、重點化，以利使用者快速吸收文章資訊
+將文章使用Python jieba套件，將句子轉換成多個關鍵字
+再使用TF-IDF計算每一個詞的重要度(分數)，根據重要度重組成新的摘要
+TF-IDF TF是處理每一個「文件」中所有「詞」的問題
+IDF是處理每一個「詞」在所有「文件」中的問題
+透過TF和IDF算每一個「詞」對每一篇「文件」的分數
+介紹影片 Everything Is AWESOME</description>
+    </item>
+    
+  </channel>
+</rss>

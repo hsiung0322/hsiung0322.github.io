@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>心得記錄 on Hsiung profile</title>
+    <link>https://hsiung0322.github.io/categories/%E5%BF%83%E5%BE%97%E8%A8%98%E9%8C%84/</link>
+    <description>Recent content in 心得記錄 on Hsiung profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 06 Aug 2020 16:51:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://hsiung0322.github.io/categories/%E5%BF%83%E5%BE%97%E8%A8%98%E9%8C%84/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo 產生程式碼 &amp; 發佈到Github</title>
+      <link>https://hsiung0322.github.io/blog/hugo-github/</link>
+      <pubDate>Thu, 06 Aug 2020 16:51:00 +0800</pubDate>
+      
+      <guid>https://hsiung0322.github.io/blog/hugo-github/</guid>
+      <description>Github pages 可以用 GitHub 當做靜態檔案的伺服器，僅呈現靜態頁面內容
+新增專案 Repository 在專案名稱的地方，填寫「username.github.io」
+產生程式碼 open terminal</description>
+    </item>
+    
+    <item>
+      <title>Hugo shortcodes用法</title>
+      <link>https://hsiung0322.github.io/blog/hugo-shortcodes/</link>
+      <pubDate>Wed, 05 Aug 2020 15:49:00 +0800</pubDate>
+      
+      <guid>https://hsiung0322.github.io/blog/hugo-shortcodes/</guid>
+      <description>Hugo shortcodes shortcodes
+ Shortcodes are simple snippets inside your content files calling built-in or custom templates.</description>
+    </item>
+    
+    <item>
+      <title>Markdown常用語法</title>
+      <link>https://hsiung0322.github.io/blog/markdown/</link>
+      <pubDate>Tue, 04 Aug 2020 22:49:00 +0800</pubDate>
+      
+      <guid>https://hsiung0322.github.io/blog/markdown/</guid>
+      <description>Markdown 記錄一下，Markdown語法
+是一種輕量級標記式語言，允許人們使用易讀易寫的純文字格式編寫文件，對於圖片，圖表、數學式都有支援
+目前許多網站都廣泛使用Markdown來撰寫說明文件或是用於論壇上發表訊息。如GitHub
+1. 標題 支援6個大小，使用 # 一個#為最大
+# 標題1 ## 標題2 ### 標題3 #### 標題4 ##### 標題5 ###### 標題6 標題1 標題2 標題3 標題4 標題5 標題6 2.</description>
+    </item>
+    
+    <item>
+      <title>Hugo安裝 &amp; 啟動</title>
+      <link>https://hsiung0322.github.io/blog/hugo/</link>
+      <pubDate>Tue, 04 Aug 2020 21:49:00 +0800</pubDate>
+      
+      <guid>https://hsiung0322.github.io/blog/hugo/</guid>
+      <description>HUGO  The world’s fastest framework for building websites
+ 有許多靜態網頁模版供你使用</description>
+    </item>
+    
+  </channel>
+</rss>
