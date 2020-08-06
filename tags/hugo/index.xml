@@ -17,9 +17,7 @@
       <pubDate>Thu, 06 Aug 2020 16:51:00 +0800</pubDate>
       
       <guid>https://hsiung0322.github.io/blog/hugo-github/</guid>
-      <description>Github pages 可以用 GitHub 當做靜態檔案的伺服器，僅呈現靜態頁面內容
-新增專案 Repository 在專案名稱的地方，填寫「username.github.io」
-產生程式碼 open terminal</description>
+      <description>Github pages 可以用 GitHub 當做靜態檔案的伺服器，僅呈現靜態頁面內容</description>
     </item>
     
     <item>
@@ -28,8 +26,7 @@
       <pubDate>Wed, 05 Aug 2020 15:49:00 +0800</pubDate>
       
       <guid>https://hsiung0322.github.io/blog/hugo-shortcodes/</guid>
-      <description>Hugo shortcodes shortcodes
- Shortcodes are simple snippets inside your content files calling built-in or custom templates.</description>
+      <description>Hugo shortcodes shortcodes</description>
     </item>
     
     <item>
@@ -38,8 +35,7 @@
       <pubDate>Tue, 04 Aug 2020 21:49:00 +0800</pubDate>
       
       <guid>https://hsiung0322.github.io/blog/hugo/</guid>
-      <description>HUGO  The world’s fastest framework for building websites
- 有許多靜態網頁模版供你使用</description>
+      <description>HUGO  The world’s fastest framework for building websites</description>
     </item>
     
   </channel>

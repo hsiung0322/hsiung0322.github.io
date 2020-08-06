@@ -17,9 +17,7 @@
       <pubDate>Thu, 06 Aug 2020 16:51:00 +0800</pubDate>
       
       <guid>https://hsiung0322.github.io/blog/hugo-github/</guid>
-      <description>Github pages 可以用 GitHub 當做靜態檔案的伺服器，僅呈現靜態頁面內容
-新增專案 Repository 在專案名稱的地方，填寫「username.github.io」
-產生程式碼 open terminal</description>
+      <description>Github pages 可以用 GitHub 當做靜態檔案的伺服器，僅呈現靜態頁面內容</description>
     </item>
     
   </channel>
